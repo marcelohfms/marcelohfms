@@ -1,9 +1,9 @@
 ### Olá, meu nome é Marcelo e esse é meu repositório pessoal.
 
 #### Minha experiência
-* Atualmente trabalho como Analista de Negócio em uma Consultoria. Minhas principais ferramentas de trabalho são Excel e Power BI;
-* Tenho experiência com SQL, Python, R e suas bibliotecas relacionadas a Data Science e Machine Learning;
-* Sou formado em Engenharia Elétrica pela Universidade Federal da Paraíba (UFPB) e estou cursando um MBA em Ciência de Dados pela XP Educação;
+* Atuo com dados em uma consultoria estratégica em regime híbrido em São Paulo - SP. Minhas principais ferramentas de trabalho são Python, SQL e Excel;
+* Tenho forte interesse em Machine Learning e Inteligência Artificial;
+* Sou formado em Engenharia Elétrica pela Universidade Federal da Paraíba (UFPB) e pós-graduado em Ciência de Dados pela XP Educação;
 * Quer me contatar? Escreva um email para marcelohfms73@gmail.com ou me encontre no meu perfil no [Linkedin](https://www.linkedin.com/in/marcelo-hfms/).
 
 <!--
