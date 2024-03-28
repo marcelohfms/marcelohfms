@@ -20,13 +20,13 @@ Olá! Meu nome é Marcelo, tenho 25 anos e sou consultor estratégico focado em 
 
 ### Hard Skills:
 
-Python (pandas, numpy, matplotlib, seaborn, plotly, scikit-learn, BeautifulSoup)
-SQL
-Machine Learning (Modelos supervisionados e não supervisionados)
-Estatística descritiva e inferencial aplicada à análise de dados
-Excel
-PowerBI
-Git & Version Control
+* Python (pandas, numpy, matplotlib, seaborn, plotly, scikit-learn, BeautifulSoup)
+* SQL
+* Machine Learning (Modelos supervisionados e não supervisionados)
+* Estatística descritiva e inferencial aplicada à análise de dados
+* Excel
+* PowerBI
+* Git & Version Control
 <br>
 
 ### Soft Skills:
