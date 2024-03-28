@@ -10,7 +10,7 @@
 📧 Quer entrar em contato comigo? Envie um e-mail para marcelohfms73@gmail.com <br>
 <br>
 
-Confira também o meu [Linkedin](https://www.linkedin.com/in/marcelo-hfms/)
+Confira também o meu [Linkedin](https://www.linkedin.com/in/marcelo-hfms/).
 
 <br>
 
@@ -56,7 +56,7 @@ Também fui responsável por desenvolver os Dashboards de acompanhamento de proj
 Quanto aos idiomas, sou nativo falante de português, e fluente em inglês, tendo atuado como professor por mais de 6 anos.
 
 ## Produção de Conteúdo:
-No Medium, publico artigos sobre assuntos relacionados a Estatística, Ciência de Dados e Machine Learning.
+No Medium, publico artigos sobre assuntos relacionados a Estatística, Ciência de Dados e Machine Learning. <br>
 No GitHub, publico vários projetos pessoais relacionados à Análise de Dados, Ciência de dados e Machine Learning.
 <br>
 
