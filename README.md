@@ -16,7 +16,7 @@ Confira também o meu [Linkedin](https://www.linkedin.com/in/marcelo-hfms/).
 
 ## Sobre mim:
 
-Olá! Meu nome é Marcelo, tenho 25 anos e sou consultor estratégico focado em Data Analytics. Nos meus estudos, tenho focado em Ciência de Dados e Machine Learning, e busco escalar o crescimento das empresas em que atuo através do poder dos dados.<br>
+Olá! Meu nome é Marcelo, tenho 25 anos e sou consultor estratégico focado em Data Analytics. Com foco em Ciência de Dados e Machine Learning, busco escalar o crescimento das empresas em que atuo através do poder dos dados.<br>
 
 ### Hard Skills:
 
