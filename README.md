@@ -29,8 +29,6 @@ PowerBI
 Git & Version Control
 <br>
 
-<br>
-
 ### Soft Skills:
 
 Comunicação
@@ -39,8 +37,6 @@ Proatividade
 Senso de liderança
 Aprendizado rápido e contínuo
 Autodidata
-<br>
-
 <br>
 
 ## Projetos em que atuei:
