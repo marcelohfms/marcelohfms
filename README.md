@@ -31,12 +31,12 @@ Git & Version Control
 
 ### Soft Skills:
 
-Comunicação
-Trabalho em equipe
-Proatividade
-Senso de liderança
-Aprendizado rápido e contínuo
-Autodidata
+* Comunicação
+* Trabalho em equipe
+* Proatividade
+* Senso de liderança
+* Aprendizado rápido e contínuo
+* Autodidata
 <br>
 
 ## Projetos em que atuei:
