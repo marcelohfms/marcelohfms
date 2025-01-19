@@ -4,8 +4,8 @@
 
 ## Minha experiência:
 
-🌐 Tenho experiência em trabalhar com Python, SQL, Excel e Power BI para Análise de Dados e Ciência de DadosCiência de Dados<br>
-🎲 Trabalho como consultor estratégico focado em Data Analytics para uma consultoria baseada em São Paulo <br>
+🌐 Tenho experiência em trabalhar com Python, SQL, Excel/Google Sheets e Power BI para Análise de Dados e Ciência de DadosCiência de Dados<br>
+🎲 Trabalho como Analista de Sales Operations para o G4 Educação <br>
 📚 Sou bacharel em Engenharia Elétrica na UFPB (Universidade Federal da Paraíba) e tenho pós-graduação em Ciência de Dados pela XP Educação <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para marcelohfms73@gmail.com <br>
 <br>
@@ -16,7 +16,7 @@ Confira também o meu [Linkedin](https://www.linkedin.com/in/marcelo-hfms/).
 
 ## Sobre mim:
 
-Olá! Meu nome é Marcelo, tenho 25 anos e sou consultor estratégico focado em Data Analytics. Com foco em Ciência de Dados e Machine Learning, busco escalar o crescimento das empresas em que atuo através do poder dos dados.<br>
+Olá! Meu nome é Marcelo, tenho 26 anos e sou Analista de Sales Operations. Sou apaixonado por Matemática e Estatística, então sou um grande entusiasta de AI e Machine Learning. <br>
 
 ### Hard Skills:
 
@@ -26,7 +26,7 @@ Olá! Meu nome é Marcelo, tenho 25 anos e sou consultor estratégico focado em 
 * Estatística descritiva e inferencial aplicada à análise de dados
 * Excel
 * PowerBI
-* Git & Version Control
+* Funil de Vendas
 <br>
 
 ### Soft Skills:
